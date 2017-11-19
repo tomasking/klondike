@@ -1,6 +1,6 @@
 package main
 
-func TakeTurn() string {
+func takeTurn() string {
 
 	return "something"
 }
